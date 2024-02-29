@@ -1,2 +1,4 @@
 
 测试：Default commit message -- Pull request title
+
+测试：取消“Allow merge commits”，squash merging的默认提交信息改为“Pull request title and description”
